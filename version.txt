@@ -1,2 +1,2 @@
 {"versionCode":"2",
-"downloadUrl":"https://downapp.baidu.com/appsearch/AndroidPhone/1.0.69.149/1/1009556z/20180416213017/appsearch_AndroidPhone_1-0-69-149_1009556z.apk?responseContentDisposition=attachment%3Bfilename%3D%22appsearch_AndroidPhone_1009556z.apk%22&responseContentType=application%2Fvnd.android.package-archive&request_id=1524236337_9570364216&type=static"}
+"downloadUrl":"http://m.gdown.baidu.com/d45c665af1547b4930698106e4f353215b008f6223d4fba12f780c081edb9e859fe5cce0586a2bb7019f3ff55ea852cd1fae41844cd4466964c304f9c6b521b84b991633a3a764e8c04c3e5e9c68e37fb908049892358e187a2cc77d15acf0860940e36bf06a0937c1250aa4f4faf9710ae1e7b6e9e5125e7443e4d4433cc5858dd456dfbfc786b22422908495ac17cba37a77b51bc530b6a316ad9344ca91cdd17fa5e6b78eba00"}
